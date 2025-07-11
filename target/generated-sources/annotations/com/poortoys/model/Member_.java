@@ -1,11 +1,13 @@
 package com.poortoys.model;
 
+import jakarta.annotation.Generated;
 import jakarta.persistence.metamodel.EntityType;
 import jakarta.persistence.metamodel.ListAttribute;
 import jakarta.persistence.metamodel.SingularAttribute;
 import jakarta.persistence.metamodel.StaticMetamodel;
 
 @StaticMetamodel(Member.class)
+@Generated("org.hibernate.processor.HibernateProcessor")
 public abstract class Member_ extends com.poortoys.model.Person_ {
 
 	public static final String BORROWS = "borrows";

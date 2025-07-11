@@ -1,11 +1,13 @@
 package com.poortoys.model;
 
+import jakarta.annotation.Generated;
 import jakarta.persistence.metamodel.EntityType;
 import jakarta.persistence.metamodel.SingularAttribute;
 import jakarta.persistence.metamodel.StaticMetamodel;
 import java.util.Date;
 
 @StaticMetamodel(Issue.class)
+@Generated("org.hibernate.processor.HibernateProcessor")
 public abstract class Issue_ {
 
 	public static final String MANAGE_DATE = "manageDate";

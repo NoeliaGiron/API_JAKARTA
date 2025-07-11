@@ -1,11 +1,13 @@
 package com.poortoys.model;
 
+import jakarta.annotation.Generated;
 import jakarta.persistence.metamodel.EntityType;
 import jakarta.persistence.metamodel.SingularAttribute;
 import jakarta.persistence.metamodel.StaticMetamodel;
 import java.util.Date;
 
 @StaticMetamodel(Borrow.class)
+@Generated("org.hibernate.processor.HibernateProcessor")
 public abstract class Borrow_ {
 
 	public static final String FROM_DATE = "fromDate";

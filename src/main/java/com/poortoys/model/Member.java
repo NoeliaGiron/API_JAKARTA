@@ -2,6 +2,7 @@ package com.poortoys.model;
 
 import jakarta.persistence.*;
 import java.util.List;
+import jakarta.json.bind.annotation.JsonbTransient;
 
 @Entity
 public class Member extends Person {
@@ -30,6 +31,7 @@ public class Member extends Person {
     // Getters y setters
     public String getIdMember() { return idMember; }
     public void setIdMember(String idMember) { this.idMember = idMember; }
+    @JsonbTransient
     public List<Borrow> getBorrows() { return borrows; }
     public void setBorrows(List<Borrow> borrows) { this.borrows = borrows; }
 } 

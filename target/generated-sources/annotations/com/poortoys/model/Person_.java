@@ -1,10 +1,12 @@
 package com.poortoys.model;
 
+import jakarta.annotation.Generated;
 import jakarta.persistence.metamodel.EntityType;
 import jakarta.persistence.metamodel.SingularAttribute;
 import jakarta.persistence.metamodel.StaticMetamodel;
 
 @StaticMetamodel(Person.class)
+@Generated("org.hibernate.processor.HibernateProcessor")
 public abstract class Person_ {
 
 	public static final String ADDRESS = "address";

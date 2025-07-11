@@ -1,4 +1,14 @@
 C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\ApplicationConfig.java
-C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\examples\HelloResource.java
-C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\Usuario.java
-C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\resources\UsuarioResource.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\Borrow.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\Issue.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\Librarian.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\Member.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\Person.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\Publication.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\StatusPublication.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\model\TestEntity.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\resources\BorrowResource.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\resources\IssueResource.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\resources\LibrarianResource.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\resources\MemberResource.java
+C:\Users\santi\Downloads\api\api\src\main\java\com\poortoys\resources\PublicationResource.java

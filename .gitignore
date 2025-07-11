@@ -1,0 +1,44 @@
+# Maven
+/target/
+
+# IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+/.settings/
+.classpath
+.project
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Wildfly
+standalone/
+
+# Base de datos temporales
+*.h2.db
+*.mv.db
+
+# Configuración sensible
+*.env
+
+# Binarios y compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de pruebas y cobertura
+/test-output/
+/coverage/
+/.nyc_output/
+
+# Archivos de sistema de Windows
+*.swp
+~$*
