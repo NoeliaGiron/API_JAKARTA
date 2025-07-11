@@ -1,0 +1,5 @@
+com\poortoys\examples\HelloResource.class
+com\poortoys\model\Usuario.class
+com\poortoys\ApplicationConfig.class
+com\poortoys\resources\UsuarioResource.class
+com\poortoys\model\Usuario_.class
